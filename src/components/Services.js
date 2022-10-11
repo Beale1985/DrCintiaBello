@@ -12,9 +12,9 @@ function Services () {
                 </div>
                 <div className="row text-center">
                     <div className="col-md-4">
-                        <span className="fa-stack fa-4x" style={{color:"rgb(85,98,112)"}}>
+                        <span className="fa-stack fa-4x icono-phone" style={{color:"rgb(85,98,112)"}}>
                             <i className="fas fa-circle fa-stack-2x"></i>
-                            <i className="fas fa-phone fa-stack-1x fa-inverse"></i>
+                            <i className="fas fa-phone fa-stack-1x fa-inverse phone"></i>
                         </span>
                         <h4 className="my-3">Contactanos</h4>
                         <Zoom>
@@ -24,17 +24,17 @@ function Services () {
                     <div className="col-md-4">
                         <span className="fa-stack fa-4x" style={{color:"rgb(85,98,112)"}}>
                             <i className="fas fa-circle fa-stack-2x"></i>
-                            <i className="fas fa-heart fa-stack-1x fa-inverse"></i>
+                            <i className="fas fa-heart fa-stack-1x fa-inverse icono-corazon"></i>
                         </span>
                         <h4 className="my-3">Evaluación Médica</h4>
                         <Zoom>
                         <p className="text-muted">En la entrevista médica con la Dr. Cintia Bello se evaluará el tratamiento a realizar.</p>
                         </Zoom>
-                    </div>
+                    </div> 
                     <div className="col-md-4">
                         <span className="fa-stack fa-4x" style={{color:"rgb(85,98,112)"}}>
                             <i className="fas fa-circle fa-stack-2x"></i>
-                            <i className="fas fa-clock fa-stack-1x fa-inverse"></i>
+                            <i className="fas fa-spinner fa-pulse fa-stack-1x fa-inverse"></i>
                         </span>
                         <h4 className="my-3">Empezá el tratamiento</h4>
                         <Zoom>
