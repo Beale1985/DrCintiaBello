@@ -7,8 +7,9 @@ function Header (){
         <header className="masthead">
             <div className="container">
                 <Fade>
-                <div className="masthead-subheading">Bienvenido!</div>
-                <div className="masthead-heading text-uppercase">Dr. Cintia Bello</div>
+                <div>
+                <img className="logo-img" fill="red" src="https://i.postimg.cc/1XTG4MDh/Logo-CB-blanco.png"></img>
+                </div>
                 </Fade>
                 <Jump>
                     <a className="btn btn-primary btn-xl text-uppercase" href="#about">Conocenos</a>

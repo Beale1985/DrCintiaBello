@@ -7,7 +7,7 @@ function Portfolio () {
             <div className="container">
                 <div className="text-center">
                     <h2 className="section-heading text-uppercase">Tratamientos</h2>
-                    <h3 className="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+                    <h3 className="section-subheading text-muted">Para más información no dudes en contactarnos.</h3>
                 </div>
                 <div className="row">
                     <div className="col-lg-4 col-sm-6 mb-4">
@@ -22,7 +22,7 @@ function Portfolio () {
                             </a>
                             <div className="portfolio-caption">
                                 <div className="portfolio-caption-heading">Depilación Láser</div>
-                                <div className="portfolio-caption-subheading text-muted">algo</div>
+                                <div className="portfolio-caption-subheading text-muted">Depilación definitiva</div>
                             </div>
                         </div>
                         </Zoom>
@@ -56,7 +56,7 @@ function Portfolio () {
                             </a>
                             <div className="portfolio-caption">
                                 <div className="portfolio-caption-heading">Tratamientos Faciales</div>
-                                <div className="portfolio-caption-subheading text-muted">Rostro</div>
+                                <div className="portfolio-caption-subheading text-muted">Tratamientos combinados faciales</div>
                             </div>
                         </div>
                         </Zoom>
