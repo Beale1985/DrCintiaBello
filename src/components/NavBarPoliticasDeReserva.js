@@ -12,6 +12,7 @@ function NavBar () {
                 </a>
                 <div className="collapse navbar-collapse" id="navbarResponsive">
                     <ul className="navbar-nav ms-auto py-4 py-lg-0">
+                    <li className="nav-item animated-line"><HashLink className="nav-link" to={"/#Home"}>Home</HashLink></li>
                     <li className="nav-item animated-line"><HashLink className="nav-link" to={"/#tratamientos"}>Tratamientos</HashLink></li>
                     </ul>
                 </div>

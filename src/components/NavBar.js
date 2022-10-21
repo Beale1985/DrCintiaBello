@@ -3,7 +3,7 @@ import Fade from 'react-reveal/Fade';
 function NavBar () {
     return (
         <Fade top>
-        <nav className="navbar navbar-expand-lg fixed-top" id="mainNav">
+        <nav className="navbar navbar-expand-lg fixed-top shadow" id="mainNav">
             <div className="container">
                 <a className="navbar-brand" href="#Home">
                     <img className='img-logo-header' src="https://i.postimg.cc/3WQGMMnb/LogoCB.png" alt='Logo'></img> Dra. Cintia Bello

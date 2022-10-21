@@ -11,7 +11,7 @@ function Tratamientos() {
     <div>
         <NavBarTratamientos />
         <Routes exact element={<Tratamientos />} >
-            <Route path="/depilacion" exact element={<Depilacion /> } />
+            <Route path="/depilacion" element={<Depilacion /> } exact />
             <Route path="/combos" exact element={<Combos />} />
             <Route path="/faciales" exact element={<Faciales />} />
           </Routes>

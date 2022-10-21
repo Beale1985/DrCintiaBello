@@ -6,7 +6,7 @@ function Faciales() {
     <div className='container'>
         <div className="row">
             <div className="col-sm-4">
-                <div className="card text-center" style={{width: "18rem", marginTop: "100px"}}>
+                <div className="card shadow text-center" style={{width: "18rem", marginTop: "100px"}}>
                     <img className="card-img-top" src="https://i.postimg.cc/nVw8dTDs/laser-epilation-hair-removal-therapy.jpg" alt="Card image axilas"/>
                         <div className="card-body">
                             <h5 className="card-title">Higiene facial profunda</h5>
@@ -15,7 +15,7 @@ function Faciales() {
                 </div>
             </div>
             <div className="col-sm-4">
-                <div className="card text-center" style={{width: "18rem", marginTop: "100px"}}>
+                <div className="card shadow text-center" style={{width: "18rem", marginTop: "100px"}}>
                     <img className="card-img-top" src="https://i.postimg.cc/nVw8dTDs/laser-epilation-hair-removal-therapy.jpg" alt="Card image axilas"/>
                         <div className="card-body">
                             <h5 className="card-title">Intensivo de verano</h5>
@@ -24,7 +24,7 @@ function Faciales() {
                 </div>
             </div>
             <div className="col-sm-4">
-                <div className="card text-center" style={{width: "18rem", marginTop: "100px"}}>
+                <div className="card shadow text-center" style={{width: "18rem", marginTop: "100px"}}>
                     <img className="card-img-top" src="https://i.postimg.cc/nVw8dTDs/laser-epilation-hair-removal-therapy.jpg" alt="Card image axilas"/>
                         <div className="card-body">
                             <h5 className="card-title">Intensivo de verano para pieles sensibles</h5>
@@ -33,7 +33,7 @@ function Faciales() {
                 </div>
             </div>
             <div className="col-sm-4">
-                <div className="card text-center" style={{width: "18rem", marginTop: "50px"}}>
+                <div className="card shadow text-center" style={{width: "18rem", marginTop: "50px"}}>
                     <img className="card-img-top" src="https://i.postimg.cc/nVw8dTDs/laser-epilation-hair-removal-therapy.jpg" alt="Card image axilas"/>
                         <div className="card-body">
                             <h5 className="card-title">Intensivo de verano para manchas</h5>
@@ -42,7 +42,7 @@ function Faciales() {
                 </div>
             </div>
             <div className="col-sm-4">
-                <div className="card text-center" style={{width: "18rem", marginTop: "50px"}}>
+                <div className="card shadow text-center" style={{width: "18rem", marginTop: "50px"}}>
                     <img className="card-img-top" src="https://i.postimg.cc/nVw8dTDs/laser-epilation-hair-removal-therapy.jpg" alt="Card image axilas"/>
                         <div className="card-body">
                             <h5 className="card-title">Especial pre-evento</h5>
@@ -51,7 +51,7 @@ function Faciales() {
                 </div>
             </div>
             <div className="col-sm-4">
-                <div className="card text-center" style={{width: "18rem", marginTop: "50px", marginBottom: "50px"}}>
+                <div className="card shadow text-center" style={{width: "18rem", marginTop: "50px", marginBottom: "50px"}}>
                     <img className="card-img-top" src="https://i.postimg.cc/nVw8dTDs/laser-epilation-hair-removal-therapy.jpg" alt="Card image axilas"/>
                         <div className="card-body">
                             <h5 className="card-title">Dermaplaning</h5>
@@ -60,7 +60,7 @@ function Faciales() {
                 </div>
             </div>
             <div className="col-sm-4">
-                <div className="card text-center" style={{width: "18rem", marginTop: "50px", marginBottom: "50px"}}>
+                <div className="card shadow text-center" style={{width: "18rem", marginTop: "50px", marginBottom: "50px"}}>
                     <img className="card-img-top" src="https://i.postimg.cc/nVw8dTDs/laser-epilation-hair-removal-therapy.jpg" alt="Card image axilas"/>
                         <div className="card-body">
                             <h5 className="card-title">Microneedling + Plasma rico en plaquetas</h5>

@@ -12,7 +12,7 @@ function Header (){
                 </div>
                 </Fade>
                 <Jump>
-                    <a className="btn btn-primary btn-xl text-uppercase" href="#nosotros">Conocenos</a>
+                    <a className="btn btn-primary btn-xl shadow" href="#nosotros">Conocenos</a>
                 </Jump>
             </div>
         </header>

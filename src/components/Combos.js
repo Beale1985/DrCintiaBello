@@ -6,7 +6,7 @@ function Combos() {
     <div className='container'>
         <div className="row">
             <div className="col-sm-4">
-                <div className="card text-center" style={{width: "18rem", marginTop: "100px"}}>
+                <div className="card shadow text-center" style={{width: "18rem", marginTop: "100px"}}>
                     <img className="card-img-top" src="https://i.postimg.cc/nVw8dTDs/laser-epilation-hair-removal-therapy.jpg" alt="Card image axilas"/>
                         <div className="card-body">
                             <h5 className="card-title">Media pierna + Cavado total + Axilas </h5>
@@ -15,7 +15,7 @@ function Combos() {
                 </div>
             </div>
             <div className="col-sm-4">
-                <div className="card text-center" style={{width: "18rem", marginTop: "100px", marginBottom: "50px"}}>
+                <div className="card shadow text-center" style={{width: "18rem", marginTop: "100px", marginBottom: "50px"}}>
                     <img className="card-img-top" src="https://i.postimg.cc/nVw8dTDs/laser-epilation-hair-removal-therapy.jpg" alt="Card image axilas"/>
                         <div className="card-body">
                             <h5 className="card-title">Cavado total + Axilas</h5>
@@ -24,7 +24,7 @@ function Combos() {
                 </div>
             </div>
             <div className="col-sm-4">
-                <div className="card text-center" style={{width: "18rem", marginTop: "100px"}}>
+                <div className="card shadow text-center" style={{width: "18rem", marginTop: "100px"}}>
                     <img className="card-img-top" src="https://i.postimg.cc/nVw8dTDs/laser-epilation-hair-removal-therapy.jpg" alt="Card image axilas"/>
                         <div className="card-body">
                             <h5 className="card-title">Pierna completa + Cavado total + Axilas</h5>

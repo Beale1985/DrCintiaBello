@@ -11,7 +11,7 @@ function About() {
                 </div>
                 <ul className="timeline">
                     <li>
-                        <div className="timeline-image">
+                        <div className="timeline-image shadow">
                             <Zoom>
                             <img className="rounded-circle img-fluid" src="assets/img/about/1.jpg" alt="..." style={{backgroundColor:"white"}} />
                             </Zoom>
@@ -25,7 +25,7 @@ function About() {
                         </div>
                     </li>
                     <li className="timeline-inverted">
-                        <div className="timeline-image">
+                        <div className="timeline-image shadow">
                             <Zoom>
                             <img className="rounded-circle img-fluid" src="assets/img/about/2.jpg" alt="..." />
                             </Zoom>
@@ -39,9 +39,9 @@ function About() {
                         </div>
                     </li>
                     <li>
-                        <div className="timeline-image">
+                        <div className="timeline-image shadow">
                             <Zoom>
-                            <img className="rounded-circle img-fluid" src="assets/img/about/3.jpg" alt="..." />
+                            <img className="rounded-circle img-fluid " src="assets/img/about/3.jpg" alt="..." />
                             </Zoom>
                             </div>
                         <div className="timeline-panel">
@@ -53,9 +53,9 @@ function About() {
                         </div>
                     </li>
                     <li className="timeline-inverted">
-                        <div className="timeline-image">
+                        <div className="timeline-image shadow">
                             <Zoom>
-                            <img className="rounded-circle img-fluid" src="assets/img/about/4.jpg" alt="..." />
+                            <img className="rounded-circle img-fluid " src="assets/img/about/4.jpg" alt="..." />
                             </Zoom>
                             </div>
                         <div className="timeline-panel">
@@ -67,7 +67,7 @@ function About() {
                         </div>
                     </li>
                     <li className="timeline-inverted">
-                        <div className="timeline-image">
+                        <div className="timeline-image shadow">
                             <Zoom>
                             <h4>
                                 Se parte

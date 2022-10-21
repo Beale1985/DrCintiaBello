@@ -12,7 +12,8 @@ function Footer() {
                         <a className="btn btn-dark btn-social mx-2" rel="noreferrer" target="_blank" href="https://www.instagram.com/dracintiabello/?hl=es" aria-label="Instagram"><i className="fab fa-instagram"></i></a>
                     </div>
                     <div className="col-lg-4 text-lg-end">
-                        <a className="link-dark text-decoration-none me-3" href="#!">Políticas de reserva</a>
+                        <a className="link-dark text-decoration-none me-3" href="/politicasdereserva">Políticas de reserva</a>
+                        <a className="link-dark text-decoration-none me-3"><i className="fa fa-location-arrow"></i> Tucumán 999 4° 211, CABA</a>
                     </div>
                 </div>
             </div>

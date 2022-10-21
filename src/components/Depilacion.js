@@ -3,131 +3,144 @@ import Shake from 'react-reveal/Shake';
 
 function Depilacion() {
   return (
-    <div className='container'>
+    <div className='container' id="inicio" >
+        <div>
+            <h4 className='text-center' style={{paddingTop:"100px"}}>Antes de comenzar el tratamiento se debe realizar una evaluación médica sin cargo con la Dra. Cintia Bello.</h4>
+        </div>
         <div className="row">
             <div className="col-sm-4">
-                <div className="card text-center" style={{width: "18rem", marginTop: "100px"}}>
-                    <img className="card-img-top" src="https://i.postimg.cc/nVw8dTDs/laser-epilation-hair-removal-therapy.jpg" alt="Card image axilas"/>
+                <div className="card shadow text-center" style={{width: "18rem", marginTop: "40px"}}>
+                    <img className="card-img-top" src="https://i.postimg.cc/Gh6b1jvg/laser-epilation-hair-removal-therapy-3.jpg" alt="Card image axilas"/>
+                        <h5 className="card-title">Axilas</h5>
                         <div className="card-body">
-                            <h5 className="card-title">Axilas</h5>
-                            <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                            <p className="card-text info__description">Las Axilas son una de las áreas mas delicadas y sensibles de nuestro cuerpo. La depilación definitiva es la manera mas aconsejable a la hora de mantenerlas libres de vellos.</p>
                         </div>
                 </div>
             </div>
             <div className="col-sm-4">
-                <div className="card text-center" style={{width: "18rem", marginTop: "100px"}}>
-                    <img className="card-img-top" src="https://i.postimg.cc/nVw8dTDs/laser-epilation-hair-removal-therapy.jpg" alt="Card image axilas"/>
-                        <div className="card-body">
-                            <h5 className="card-title">Línea Alba</h5>
-                            <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                <div className="card shadow text-center" style={{width: "18rem", marginTop: "40px"}}>
+                    <img className="card-img-top" src="https://i.postimg.cc/65v2GcLn/laser-epilation-hair-removal-therapy-10.jpg" alt="Card image axilas"/>
+                    <h5 className="card-title">Línea Alba</h5>
+                       <div className="card-body">
+                            <p className="card-text info__description">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                         </div>
                 </div>
             </div>
             <div className="col-sm-4">
-                <div className="card text-center" style={{width: "18rem", marginTop: "100px"}}>
+                <div className="card shadow text-center" style={{width: "18rem", marginTop: "40px"}}>
                     <img className="card-img-top" src="https://i.postimg.cc/nVw8dTDs/laser-epilation-hair-removal-therapy.jpg" alt="Card image axilas"/>
-                        <div className="card-body">
-                            <h5 className="card-title">Espalda con hombros y nuca</h5>
-                            <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        <h5 className="card-title">Espalda, hombros y nuca</h5>
+                        <div className="card-body ">  
+                            <p className="card-text info__description">La depilación láser en la espalda permite olvidarse de forma definitiva de los métodos de depilación tradicionales.</p>
                         </div>
                 </div>
             </div>
             <div className="col-sm-4">
-                <div className="card text-center" style={{width: "18rem", marginTop: "50px"}}>
-                    <img className="card-img-top" src="https://i.postimg.cc/nVw8dTDs/laser-epilation-hair-removal-therapy.jpg" alt="Card image axilas"/>
-                        <div className="card-body">
-                            <h5 className="card-title">Tórax completo</h5>
-                            <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                <div className="card shadow text-center" style={{width: "18rem", marginTop: "40px", paddingBotton:"40px"}}>
+                    <img className="card-img-top" src="https://i.postimg.cc/gJ8qsp3q/laser-epilation-hair-removal-therapy-7.jpg" alt="Card image axilas"/>
+                        <h5 className="card-title">Tórax completo</h5>
+                        <div className="card-body">   
+                            <p className="card-text info__description">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                         </div>
                 </div>
             </div>
             <div className="col-sm-4">
-                <div className="card text-center" style={{width: "18rem", marginTop: "50px"}}>
-                    <img className="card-img-top" src="https://i.postimg.cc/nVw8dTDs/laser-epilation-hair-removal-therapy.jpg" alt="Card image axilas"/>
+                <div className="card shadow text-center" style={{width: "18rem", marginTop: "40px"}}>
+                    <img className="card-img-top" src="https://i.postimg.cc/4drj0XK8/laser-epilation-hair-removal-therapy-5.jpg" alt="Card image axilas"/>
+                    <h5 className="card-title">Brazo</h5>
                         <div className="card-body">
-                            <h5 className="card-title">Brazo</h5>
-                            <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                            
+                            <p className="card-text info__description">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                         </div>
                 </div>
             </div>
             <div className="col-sm-4">
-                <div className="card text-center" style={{width: "18rem", marginTop: "50px", marginBottom: "50px"}}>
-                    <img className="card-img-top" src="https://i.postimg.cc/nVw8dTDs/laser-epilation-hair-removal-therapy.jpg" alt="Card image axilas"/>
+                <div className="card shadow text-center" style={{width: "18rem", marginTop: "40px", marginBottom: "50px"}}>
+                    <img className="card-img-top" src="https://i.postimg.cc/TYm0YRZj/laser-epilation-hair-removal-therapy-1.jpg" alt="Card image axilas"/>
+                    <h5 className="card-title">Bozo</h5>
                         <div className="card-body">
-                            <h5 className="card-title">Bozo</h5>
-                            <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                            
+                            <p className="card-text info__description">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                         </div>
                 </div>
             </div>
             <div className="col-sm-4">
-                <div className="card text-center" style={{width: "18rem", marginTop: "50px", marginBottom: "50px"}}>
-                    <img className="card-img-top" src="https://i.postimg.cc/nVw8dTDs/laser-epilation-hair-removal-therapy.jpg" alt="Card image axilas"/>
+                <div className="card shadow text-center" style={{width: "18rem", marginTop: "40px", marginBottom: "50px"}}>
+                    <img className="card-img-top" src="https://i.postimg.cc/sDbV5RDg/laser-epilation-hair-removal-therapy-11.jpg" alt="Card image axilas"/>
+                    <h5 className="card-title">Bozo y mentón</h5>
                         <div className="card-body">
-                            <h5 className="card-title">Bozo y mentón</h5>
-                            <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                            
+                            <p className="card-text info__description">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                         </div>
                 </div>
             </div>
             <div className="col-sm-4">
-                <div className="card text-center" style={{width: "18rem", marginTop: "50px", marginBottom: "50px"}}>
-                    <img className="card-img-top" src="https://i.postimg.cc/nVw8dTDs/laser-epilation-hair-removal-therapy.jpg" alt="Card image axilas"/>
+                <div className="card shadow text-center" style={{width: "18rem", marginTop: "40px", marginBottom: "50px"}}>
+                    <img className="card-img-top" src="https://i.postimg.cc/PxVh6GhJ/laser-epilation-hair-removal-therapy-8.jpg" alt="Card image axilas"/>
+                    <h5 className="card-title">Rostro Completo</h5>
                         <div className="card-body">
-                            <h5 className="card-title">Rostro Completo</h5>
-                            <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                            
+                            <p className="card-text info__description">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                         </div>
                 </div>
             </div>
             <div className="col-sm-4">
-                <div className="card text-center" style={{width: "18rem", marginTop: "50px", marginBottom: "50px"}}>
-                    <img className="card-img-top" src="https://i.postimg.cc/nVw8dTDs/laser-epilation-hair-removal-therapy.jpg" alt="Card image axilas"/>
+                <div className="card shadow text-center" style={{width: "18rem", marginTop: "40px", marginBottom: "50px"}}>
+                    <img className="card-img-top" src="https://i.postimg.cc/gkZxCjfp/laser-epilation-hair-removal-therapy-1.jpg" alt="Card image axilas"/>
+                    <h5 className="card-title">Pierna completa</h5>
                         <div className="card-body">
-                            <h5 className="card-title">Pierna completa</h5>
-                            <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                            
+                            <p className="card-text info__description">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                         </div>
                 </div>
             </div>
             <div className="col-sm-4">
-                <div className="card text-center" style={{width: "18rem", marginTop: "50px", marginBottom: "50px"}}>
+                <div className="card shadow text-center" style={{width: "18rem", marginTop: "40px", marginBottom: "50px"}}>
                     <img className="card-img-top" src="https://i.postimg.cc/nVw8dTDs/laser-epilation-hair-removal-therapy.jpg" alt="Card image axilas"/>
+                    <h5 className="card-title">Muslo con rodilla</h5>
                         <div className="card-body">
-                            <h5 className="card-title">Musclo con rodilla</h5>
-                            <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                            
+                            <p className="card-text info__description">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                         </div>
                 </div>
             </div>
             <div className="col-sm-4">
-                <div className="card text-center" style={{width: "18rem", marginTop: "50px", marginBottom: "50px"}}>
-                    <img className="card-img-top" src="https://i.postimg.cc/nVw8dTDs/laser-epilation-hair-removal-therapy.jpg" alt="Card image axilas"/>
+                <div className="card shadow text-center" style={{width: "18rem", marginTop: "40px", marginBottom: "50px"}}>
+                    <img className="card-img-top" src="https://i.postimg.cc/VNVmgQz6/laser-epilation-hair-removal-therapy-9.jpg" alt="Card image axilas"/>
+                    <h5 className="card-title">Gluteo</h5>
                         <div className="card-body">
-                            <h5 className="card-title">Gluteo</h5>
-                            <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                            
+                            <p className="card-text info__description">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                         </div>
                 </div>
             </div>
             <div className="col-sm-4">
-                <div className="card text-center" style={{width: "18rem", marginTop: "50px", marginBottom: "50px"}}>
-                    <img className="card-img-top" src="https://i.postimg.cc/nVw8dTDs/laser-epilation-hair-removal-therapy.jpg" alt="Card image axilas"/>
+                <div className="card shadow text-center" style={{width: "18rem", marginTop: "40px", marginBottom: "50px"}}>
+                    <img className="card-img-top" src="https://i.postimg.cc/pd1TccD0/laser-epilation-hair-removal-therapy-13.jpg" alt="Card image axilas"/>
+                    <h5 className="card-title">Cintura baja</h5>
                         <div className="card-body">
-                            <h5 className="card-title">Cintura baja</h5>
-                            <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                            
+                            <p className="card-text info__description">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                         </div>
                 </div>
             </div>
             <div className="col-sm-4">
-                <div className="card text-center" style={{width: "18rem", marginTop: "50px", marginBottom: "50px"}}>
-                    <img className="card-img-top" src="https://i.postimg.cc/nVw8dTDs/laser-epilation-hair-removal-therapy.jpg" alt="Card image axilas"/>
+                <div className="card shadow text-center" style={{width: "18rem", marginTop: "40px", marginBottom: "50px"}}>
+                    <img className="card-img-top" src="https://i.postimg.cc/763YXthT/laser-epilation-hair-removal-therapy-5.jpg" alt="Card image axilas"/>
+                    <h5 className="card-title">Media pierna con rodilla y pie</h5>
                         <div className="card-body">
-                            <h5 className="card-title">Media pierna con rodilla y pie</h5>
-                            <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                            
+                            <p className="card-text info__description">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                         </div>
                 </div>
             </div>
             <div className="col-sm-4">
-                <div className="card text-center" style={{width: "18rem", marginTop: "50px", marginBottom: "50px"}}>
-                    <img className="card-img-top" src="https://i.postimg.cc/nVw8dTDs/laser-epilation-hair-removal-therapy.jpg" alt="Card image axilas"/>
+                <div className="card shadow text-center" style={{width: "18rem", marginTop: "40px", marginBottom: "150px"}}>
+                    <img className="card-img-top" src="https://i.postimg.cc/VkpvDCfn/laser-epilation-hair-removal-therapy-4.jpg" alt="Card image axilas"/>
+                    <h5 className="card-title">Cavado total con tira de cola</h5>
                         <div className="card-body">
-                            <h5 className="card-title">Cavado total con tira de cola</h5>
-                            <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                            
+                            <p className="card-text info__description">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                         </div>
                 </div>
             </div>

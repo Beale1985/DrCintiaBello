@@ -4,7 +4,7 @@ import Zoom from 'react-reveal/Zoom';
 
 function Portfolio () {
     return(
-        <section className="page-section bg-light tratamientos" id="tratamientos">
+        <section className="page-section bg-light" id="tratamientos">
             <div className="container">
                 <div className="text-center">
                     <h2 className="section-heading text-uppercase">Tratamientos</h2>
