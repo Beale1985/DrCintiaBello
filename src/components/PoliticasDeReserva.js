@@ -29,7 +29,7 @@ function PoliticasDeReserva() {
                   </h4>
                 </div>
                 <div className='col'>
-                  <img src='https://i.postimg.cc/3J9sBC09/1.jpg' alt='Imagen Tratamiento Facial'></img>
+                  <img src='https://i.postimg.cc/3J9sBC09/1.jpg' alt='Imagen Tratamiento Facial' style={{width:"90%"}}></img>
                 </div>
               </div>
               <br/>
@@ -54,7 +54,7 @@ function PoliticasDeReserva() {
                   </h4>
                 </div>
                   <div className='col'>
-                  <img src='https://i.postimg.cc/YC4NhM6k/2.jpg' alt='Imagen Tratamiento Facial'></img>
+                  <img src='https://i.postimg.cc/YC4NhM6k/2.jpg' alt='Imagen Tratamiento Facial' style={{width:"90%"}}></img>
                 </div>
                 </div>
                 <br/>

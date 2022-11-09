@@ -17,7 +17,7 @@ function Portfolio () {
                         {/* <!-- Portfolio item 1--> */}
                         <Zoom>
                         <div className="portfolio-item shadow">
-                            <HashLink className="nav-link" to={"/tratamientos/depilacion#inicio"}>
+                            <HashLink className="nav-link" smooth to={"/tratamientos/depilacion#" }>
                             <div className="portfolio-link" data-bs-toggle="modal">
                                 <div className="portfolio-hover">
                                     <div className="portfolio-hover-content"><i className="fas fa-plus fa-3x"></i></div>
@@ -61,7 +61,7 @@ function Portfolio () {
                                 <div className="portfolio-hover">
                                     <div className="portfolio-hover-content"><i className="fas fa-plus fa-3x"></i></div>
                                 </div>
-                                <img className="img-fluid" src="https://i.postimg.cc/Ghw0wtXr/beautician-with-brush-applies-white-moisturizing-mask-to-the-face-of-young-girl-client-in-spa-beauty.jpg" alt="..." />
+                                <img className="img-fluid" src="https://i.postimg.cc/Ghw0wtXr/beautician-with-brush-applies-white-moisturizing-mask-to-the-face-of-young-girl-client-in-spa-beauty.jpg" alt="..." style={{width:"100%"}} />
                                 </div>
                                 </HashLink>
                             <div className="portfolio-caption">

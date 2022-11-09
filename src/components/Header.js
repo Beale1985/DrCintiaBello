@@ -4,7 +4,7 @@ import Fade from 'react-reveal/Fade';
 
 function Header (){
     return (
-        <header className="masthead">
+        <header className="masthead" style={{height:"100vh"}}>
             <div className="container">
                 <Fade>
                 <div>

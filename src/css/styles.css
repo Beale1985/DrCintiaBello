@@ -67,7 +67,10 @@
 
 .textoConsulta {
   font-family: 'Philosopher',sans-serif;
-  margin-top: 4rem;
+  font-weight: bold;
+  font-size: medium;
+  color: #3d444e;
+  margin-top: 4.1rem;
   background-color:rgba(204, 191, 183, 0.3);
   padding: 15px !important;
   border-radius: 10px;
@@ -4125,11 +4128,10 @@ textarea.form-control-lg {
 
 .nav-link {
   display: block;
-  padding: 0.1rem 1rem;
-  color: #ffc800;
   text-decoration: none;
   transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out;
 }
+
 @media (prefers-reduced-motion: reduce) {
   .nav-link {
     transition: none;

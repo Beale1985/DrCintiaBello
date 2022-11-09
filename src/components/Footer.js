@@ -13,7 +13,7 @@ function Footer() {
                     </div>
                     <div className="col-lg-4 text-lg-end">
                         <a className="link-dark text-decoration-none me-3" href="/politicasdereserva">Políticas de reserva</a>
-                        <a className="link-dark text-decoration-none me-3"><i className="fa fa-location-arrow"></i> Tucumán 999 4° 211, CABA</a>
+                        <a className="link-dark text-decoration-none me-3"><i className="fa fa-location-arrow"></i> Tucumán 766 4° 211, CABA</a>
                     </div>
                 </div>
             </div>
